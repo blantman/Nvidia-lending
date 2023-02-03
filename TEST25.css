@@ -25,7 +25,7 @@ body {
   background-color: white;
 }
 
-.continer {
+.container {
   display: flex;
   margin-left: auto;
   margin-right: auto;
@@ -36,7 +36,7 @@ body {
   width: 150px;
 }
 
-.navighthion {
+.navitation {
   height: 80px;
   width: 1000px;
   max-width: 75%;
@@ -94,7 +94,7 @@ li {
   opacity: 1;
 }
 
-.posthion-text {
+.position-text {
   display: flex;
   height: 100px;
   width: 100%;
